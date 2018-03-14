@@ -29,4 +29,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var funkGet = funkyFunction();
-var theFunk = funkyFunction;
+funkGet()
+var theFunk = funkGet
